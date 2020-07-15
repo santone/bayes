@@ -1,0 +1,1 @@
+[00:11:20.322] npc_dota_hero_rubick is killed by npc_dota_hero_pangolier

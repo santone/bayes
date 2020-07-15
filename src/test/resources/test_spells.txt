@@ -1,0 +1,2 @@
+[00:11:17.056] npc_dota_hero_mars casts ability mars_spear (lvl 1) on dota_unknown
+[00:12:38.669] npc_dota_hero_mars casts ability mars_spear (lvl 1) on dota_unknown
